@@ -10,3 +10,4 @@ Rather than claiming existing popularity through GitHub stars or downloads, the 
 
 PowerPunjab aims to contribute to a more accessible and digitally empowered energy ecosystem, starting with Punjab, Pakistan.
 Thanks for Reading.
+........
