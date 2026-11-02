@@ -9,4 +9,3 @@ Although PowerPunjab is currently an early-stage open-source project using demon
 Rather than claiming existing popularity through GitHub stars or downloads, the project's value lies in its practical purpose, open-source accessibility, educational potential, and scope for future development.
 
 PowerPunjab aims to contribute to a more accessible and digitally empowered energy ecosystem, starting with Punjab, Pakistan.
-Thanks.
